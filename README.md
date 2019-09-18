@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi locracia
+
+I like springBoot for backend and anguler for front end.
